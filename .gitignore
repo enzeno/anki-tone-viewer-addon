@@ -1,0 +1,15 @@
+    # macOS system files
+    .DS_Store
+
+    # Python cache files
+    __pycache__/
+    *.py[cod]
+    *$py.class
+
+    # Virtual environment (if any, adjust name if different)
+    aubio_env/
+
+    # Specific compiled files (consider if needed for portability)
+    # You might choose to keep these if targeting only your setup initially
+    # _cffi_backend.*.so
+    # _aubio.*.so
